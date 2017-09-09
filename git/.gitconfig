@@ -1,0 +1,20 @@
+# This is Git's per-user configuration file.
+[core]
+#       user = emilemathieu
+[user]
+       name = Emile Mathieu
+       email = emile.mathieu@stats.ox.ac.uk
+[push]
+       default = simple
+[alias]
+       co = checkout
+       ci = commit
+       br = branch
+       st = status
+       cm = commit -m
+       cia = commit --amend
+       fa = fetch --all
+       cb = checkout -b
+       br = branch
+[core]
+	excludesfile = /Users/EmileMathieu/.gitignore_global
