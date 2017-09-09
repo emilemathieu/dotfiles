@@ -21,7 +21,6 @@ ln -sfv "$DOTFILES_DIR/system/.functions" ~
 ln -sfv "$DOTFILES_DIR/system/.env" ~
 ln -sfv "$DOTFILES_DIR/system/.alias" ~
 ln -sfv "$DOTFILES_DIR/runcom/.inputrc" ~
-ln -sfv "$DOTFILES_DIR/runcom/.bash_profile" ~
 ln -sfv "$DOTFILES_DIR/runcom/.zshrc" ~
 ln -sfv "$DOTFILES_DIR/git/.gitconfig" ~
 ln -sfv "$DOTFILES_DIR/git/.gitignore_global" ~
