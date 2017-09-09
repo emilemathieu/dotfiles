@@ -8,16 +8,25 @@ brew tap caskroom/cask
 # Install packages
 
 apps=(
+  atom
+  daisydisk
   # alfred
   # dash2
   flux
   glimmerblocker
   google-chrome
+  iterm2
+  mactex
+  skim
+  skype
   slack
-  # sourcetree
+  spectacle
   sublime-text
+  the-unarchiver
+  transmission
   virtualbox
   vlc
+  whatsapp
 )
 
 brew cask install "${apps[@]}"
