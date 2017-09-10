@@ -1,0 +1,62 @@
+"*":
+  "atom-package-deps":
+    ignored: [
+      "linter-ui-default"
+    ]
+  "autocomplete-bibtex":
+    scope: ".md"
+  core:
+    disabledPackages: [
+      "markdown-preview"
+    ]
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+      "*.svn-base"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "solarized-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 16
+    invisibles: {}
+  "exception-reporting":
+    userId: "ea5c1d39-64f8-3a9a-65f3-50892cea5eb4"
+  "julia-client":
+    enableMenu: true
+    enableToolBar: true
+    errorNotifications: false
+    juliaPath: "/Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia"
+    launchOnStartup: true
+  linter: {}
+  "linter-eslint": {}
+  "linter-ui-default":
+    panelHeight: 60
+  "markdown-preview-plus":
+    enableLatexRenderingByDefault: true
+    enablePandoc: true
+    pandocBibliography: true
+    pandocPath: "/usr/local/bin/pandoc"
+  "merge-conflicts": {}
+  minimap:
+    absoluteMode: true
+  "node-debugger":
+    nodePath: "/usr/local/bin/node"
+  "package-sync":
+    createOnChange: true
+  "save-session":
+    dataSaveFolder: "/Users/EmileMathieu/.atom/packages/save-session/projects"
+  tabs:
+    usePreviewTabs: true
+  "tool-bar":
+    position: "Left"
+  "uber-juno":
+    disable: true
+  welcome:
+    showOnStartup: false
+".js.source":
+  editor:
+    autoIndentOnPaste: true

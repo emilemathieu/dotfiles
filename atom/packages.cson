@@ -1,0 +1,18 @@
+packages: [
+  "atom-jade"
+  "atom-material-syntax"
+  "atom-material-ui"
+  "autocomplete-bibtex"
+  "file-icons"
+  "ink"
+  "julia-client"
+  "language-julia"
+  "markdown-preview-plus"
+  "merge-conflicts"
+  "monokai-seti"
+  "native-ui"
+  "package-sync"
+  "seti-ui"
+  "solarized-dark-ui"
+  "uber-juno"
+]
