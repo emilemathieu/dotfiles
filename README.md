@@ -7,6 +7,7 @@ This repository collects configuration files for my PCs.
 + `dotfiles` executable in `bin`
   + add documentation
   + add commands for sublime, atom, etc
+  + iterm2 + zsh + oh-my-zsh -> is it working from scratch ? (i.e. fonts, color presets, etc)
 
 + documentation
   + workflow
