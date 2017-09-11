@@ -13,4 +13,9 @@ dockutil --no-restart --add "/Applications/Slack.app"
 dockutil --no-restart --add "/Applications/WhatsApp.app"
 dockutil --no-restart --add "/Applications/System Preferences.app"
 
+dockutil --add '/Applications' --view grid --display folder
+dockutil --add '~/Movies'      --view grid --display folder
+dockutil --add '~/Documents'   --view grid --display folder
+dockutil --add '~/Downloads'   --view grid --display folder
+
 killall Dock
