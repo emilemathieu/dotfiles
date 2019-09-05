@@ -1,5 +1,6 @@
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH";
+export GEOS_DIR=/usr/local/Cellar/geos/
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
