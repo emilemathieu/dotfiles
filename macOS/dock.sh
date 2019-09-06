@@ -4,7 +4,7 @@ dockutil --no-restart --remove all
 dockutil --no-restart --add "/Applications/Google Chrome.app"
 dockutil --no-restart --add "/Applications/Safari.app"
 dockutil --no-restart --add "/Applications/Calendar.app"
-dockutil --no-restart --add "/Applications/iTerm 2.app"
+dockutil --no-restart --add "/Applications/iTerm.app"
 dockutil --no-restart --add "/Applications/Atom.app"
 dockutil --no-restart --add "/Applications/Sublime Text.app"
 dockutil --no-restart --add "/Applications/Papers.app"

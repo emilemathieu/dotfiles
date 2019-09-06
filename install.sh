@@ -22,8 +22,12 @@ ln -sfv "$DOTFILES_DIR/system/.env" ~
 ln -sfv "$DOTFILES_DIR/system/.alias" ~
 ln -sfv "$DOTFILES_DIR/runcom/.inputrc" ~
 ln -sfv "$DOTFILES_DIR/runcom/.zshrc" ~
+ln -sfv "$DOTFILES_DIR/runcom/.vimrc" ~
 ln -sfv "$DOTFILES_DIR/git/.gitconfig" ~
 ln -sfv "$DOTFILES_DIR/git/.gitignore_global" ~
+
+# Oh-my-zsh to custom zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 # Package managers & packages
 
