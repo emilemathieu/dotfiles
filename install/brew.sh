@@ -23,15 +23,15 @@ apps=(
   git
   git-extras
   # gnu-sed --with-default-names
-  grep --with-default-names
+  grep
   # hub
   # httpie
   # imagemagick
   # jq
   # lynx
   # mackup
-  pandoc
-  pandoc-citeproc
+  # pandoc
+  # pandoc-citeproc
   # peco
   # psgrep
   # shellcheck

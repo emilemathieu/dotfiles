@@ -8,7 +8,9 @@ brew tap caskroom/cask
 # Install packages
 
 apps=(
-  atom
+  # atom
+  sublime-text
+  pycharm
   daisydisk
   # alfred
   # dash2
@@ -21,10 +23,9 @@ apps=(
   skype
   slack
   spectacle
-  sublime-text
   the-unarchiver
   transmission
-  virtualbox
+  # virtualbox
   vlc
   whatsapp
 )
